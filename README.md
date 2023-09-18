@@ -3,20 +3,20 @@
 ## About me
 
 - ✔ Call me: `He/Him`
-- ✔ Currently working as: `Architect at Bluesoft`
+- ✔ Currently working as an: `Architect` at [Bluesoft](bluesoft.com)
 - ✔ Roles: `Software Developer`, `Engineering Manager`, `Architect`, `Scrum Master`, `DevOps`
-- ✔ Skills: `DDD`, `Reactive programming`, `Object Oriented programming`, `Functional programming`, `Microservices`, `Microfrontends`, `OpenAPI`
-- ✔ How to connect: [LinkedIn](), [Email](), [Twitter]()
+- ✔ Skills: `DDD`, `DevOps`, `Reactive programming`, `Object Oriented programming`, `Functional programming`, `Microservices`, `Microfrontends`, `OpenAPI`
+- ✔ How to connect: [LinkedIn](https://www.linkedin.com/in/jaceklipiec/), [Email](jacek.lipiec.bc@gmail.com)
 
 ## Languages & Frameworks
 
 | Scope | Elements |
 | ----- | -------- |
-| Java | `Java 8/11, Spring Boot 2.x/3.x, Lombok, JPA, Archunit, Maven, Gradle, Togglz, Micrometer` |
-| Node & Web | `JavaScript, TypeScript, Angular, React, RxJS, Redux, HTML, CSS/SCSS, npm, Node` |
-| Cloud | `Docker/Docker compose, Kubernetes, Helm, Jenkins, Gerrit, GitHub Actions, Fluentd, Kibana/Opensearch, Grafana, Zipkin, Vault, OpenLDAP, ArgoCD, Nexus` |
-| Tools | `Git version control, Playwright, Gherkin, Jira, test containers, ansible, vagrant` |
-| Persistence & Messaging | `PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ` |
+| Java | `Java 8/11`, `Spring Boot 2.x/3.x`, `Lombok`, `JPA`, `Archunit`, `Maven`, `Gradle`, `Togglz`, `Micrometer` |
+| Node & Web | `JavaScript`, `TypeScript`, `Angular`, `React`, `RxJS`, `Redux`, `HTML`, `CSS/SCSS`, `npm`, `Node` |
+| Cloud | `Docker/Docker compose`, `Kubernetes`, `Helm`, `Jenkins`, `Gerrit`, `GitHub Actions`, `Fluentd`, `Kibana/Opensearch`, `Grafana`, `Zipkin`, `Vault`, `OpenLDAP`, `ArgoCD`, `Nexus` |
+| Tools | `Git version control`, `Playwright`, `Gherkin`, `Jira`, `test containers`, `ansible`, `vagrant` |
+| Persistence & Messaging | `PostgreSQL`, `MongoDB`, `Redis`, `Kafka`, `RabbitMQ` |
 
 ## Projects
 

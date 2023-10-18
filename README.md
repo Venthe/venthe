@@ -22,12 +22,12 @@
 
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| Personal development pipeline | | |
-| ONote | | |
-| Fauxpilot VSCode extension | | |
-| Ergonomic keyboard | | |
+| [Personal development pipeline](https://github.com/Venthe/Personal-Development-Pipeline) | My ongoing project to have an enterprise-grade server on premises (Kubernetes) | Working, evergreen |
+| [ONote](https://github.com/Venthe/onote) | Open source version of OneNote | Blocked at wysiwyg editor |
+| [Fauxpilot VSCode extension](https://github.com/Venthe/vscode-fauxpilot) | Experimental extension to provide Fauxpilot autocompletion in vscode | Published to marketplace |
+| [Ergonomic keyboard](https://github.com/Venthe/Ergonomic-Keyboard) | Open source ergonomic keyboard similar to Microsoft Sculpt Ergonomic | Writing library for plane manipulation |
 | ChatGPT4all WebUI | | |
-| Pipeline action runner | | |
+| [Pipeline action runner](https://github.com/Venthe/Pipeline-Action-Runner) | Docker-based reimplementation of Github Actions API | 80% of API complete |
 | Pipeline mediator | | |
 | Service Catalog | | |
 | Jenkins Actions | | |

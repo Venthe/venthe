@@ -27,7 +27,7 @@
 | [Fauxpilot VSCode extension](https://github.com/Venthe/vscode-fauxpilot) | Experimental extension to provide Fauxpilot autocompletion in vscode | Published to marketplace |
 | [Ergonomic keyboard](https://github.com/Venthe/Ergonomic-Keyboard) | Open source ergonomic keyboard similar to Microsoft Sculpt Ergonomic | Writing library for plane manipulation |
 | ChatGPT4all WebUI | | |
-| [Mantle-Orchestrator](https://github.com/Venthe/Mantle-Orchestrator) | Reimplementation of Github Actions enviroment for on-premises | |
+| [Pipeline-Monorepo](https://github.com/Venthe/Pipeline-Monorepo)) | Reimplementation of Github Actions enviromnt for on-premises | |
 | Service Catalog | | |
 | Apocrypha | | |
 | Development machine | | |

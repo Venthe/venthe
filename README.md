@@ -26,8 +26,9 @@
 | [ONote](https://github.com/Venthe/onote) | Open source version of OneNote | Blocked at wysiwyg editor |
 | [Fauxpilot VSCode extension](https://github.com/Venthe/vscode-fauxpilot) | Experimental extension to provide Fauxpilot autocompletion in vscode | Published to marketplace |
 | [Ergonomic keyboard](https://github.com/Venthe/Ergonomic-Keyboard) | Open source ergonomic keyboard similar to Microsoft Sculpt Ergonomic | Writing library for plane manipulation |
+| [Shell toolbox](https://github.com/Venthe/Shell-Toolbox) | My setup scripts for PC's | | 
 | ChatGPT4all WebUI | | |
-| [Pipeline-Monorepo](https://github.com/Venthe/Pipeline-Monorepo)) | Reimplementation of Github Actions enviromnt for on-premises | |
+| [Pipeline-Monorepo](https://github.com/Venthe/Pipeline-Monorepo) | Reimplementation of Github Actions enviromnt for on-premises | |
 | Service Catalog | | |
 | Apocrypha | | |
 | Development machine | | |
